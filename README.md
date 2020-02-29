@@ -13,26 +13,26 @@ b. Based on the results create a regression model which can accurately predict s
 The data set is provided in two csv files 'train_features.csv' which contains attributes of each job posting and 'train_salaries.csv’ that has salaries for each corresponding job posting.
 
 Preview of features dataframe
-![Data Preview](https://github.com/ShrayMishra/Salary-Prediction/blob/master/Preview%20Data.jpg)
+![Data Preview](https://github.com/ShrayMishra/Salary-Prediction/blob/master/Images/Preview%20Data.jpg)
 
 Preview of salaries dataframe
-![Data Preview 2](https://github.com/ShrayMishra/Salary-Prediction/blob/master/Preview%20Data%202.jpg)
+![Data Preview 2](https://github.com/ShrayMishra/Salary-Prediction/blob/master/Images/Preview%20Data%202.jpg)
 
 Preview of merged dataframe
-![Data Preview 3](https://github.com/ShrayMishra/Salary-Prediction/blob/master/Combined%20Data.jpg)
+![Data Preview 3](https://github.com/ShrayMishra/Salary-Prediction/blob/master/Images/Combined%20Data.jpg)
 
 
 
 ## 2. Exploratory Data Analysis
 
 Exploring relationship between salaries and educational qualification
-![Data Preview 3](https://github.com/ShrayMishra/Salary-Prediction/blob/master/Degree%20and%20Salary.jpg)
+![Data Preview 3](https://github.com/ShrayMishra/Salary-Prediction/blob/master/Images/Degree%20and%20Salary.jpg)
 
 Exploring relationship between salaries and years of experience
-![Data Preview 3](https://github.com/ShrayMishra/Salary-Prediction/blob/master/Experience%20and%20Salary.jpg)
+![Data Preview 3](https://github.com/ShrayMishra/Salary-Prediction/blob/master/Images/Experience%20and%20Salary.jpg)
 
 Matrix with heatmap to examine the correlation between dependent and independent variables
-![Data Preview 3](https://github.com/ShrayMishra/Salary-Prediction/blob/master/HeatMap.jpg)
+![Data Preview 3](https://github.com/ShrayMishra/Salary-Prediction/blob/master/Images/HeatMap.jpg)
 
 
 
